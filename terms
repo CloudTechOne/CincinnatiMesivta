@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Central Registration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="terms.html">Terms of Service</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Terms of Service</h1>
+        <p>Last updated: [Current Date]</p>
+        
+        <section>
+            <h2>1. Acceptance of Terms</h2>
+            <p>By accessing and using this service, you accept and agree to be bound by these Terms of Service.</p>
+        </section>
+
+        <section>
+            <h2>2. Use of Service</h2>
+            <p>You agree to use the service only for lawful purposes and in accordance with these Terms.</p>
+        </section>
+
+        <section>
+            <h2>3. User Accounts</h2>
+            <p>You are responsible for maintaining the confidentiality of your account and password.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Central Registration. All rights reserved.</p>
+    </footer>
+</body>
+</html>
